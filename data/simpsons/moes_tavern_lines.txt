@@ -1,4 +1,4 @@
-[YEAR DATE 1989] © Twentieth Century Fox Film Corporation. All rights reserved.
+[YEAR DATE 1989] Twentieth Century Fox Film Corporation. All rights reserved.
 
 Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
 Bart_Simpson: Eh, yeah, hello, is Mike there? Last name, Rotch.
@@ -865,7 +865,7 @@ Moe_Szyslak: I'm a well-wisher, in that I don't wish you any specific harm.
 Moe_Szyslak: Another Duff, Homer?
 Homer_Simpson: Nah, it's Friday night Moe. I wanna try something special.
 Moe_Szyslak: Uh, sure, sure.
-Moe_Szyslak: Uh, here you go. Düff. (DOOF) From Sweden. (NERVOUS CHUCKLE)
+Moe_Szyslak: Uh, here you go. Duff. (DOOF) From Sweden. (NERVOUS CHUCKLE)
 Homer_Simpson: Skoal! (SIPS) Wait a minute -- this is Duff!
 Moe_Szyslak: (NASTY LAUGH) Ah, ha ha, you got me, didn't ya? (HANDING HOMER A BEER) All right, here you go -- "Red Tick Beer."
 Homer_Simpson: Hmm, bold -- refreshing... and something I can't quite put my finger on.
@@ -1320,7 +1320,7 @@ Moe_Szyslak: (EYEING HOMER'S ASS) Oh yeah, that would look so good on me.
 Moe_Szyslak: (HOSTILE) Hey Homer, I told you not to come 'round here no more till you paid your tab. Or at least cleaned up that mess you made in the bathroom. Now y--
 Moe_Szyslak: (TURNING ON A DIME) Mayor Quimby?! Homer, why didn't you say you was with the mayor?
 Moe_Szyslak: Shove off, puke-holes. Get out of there! These stools are reserved for the mayor and his cronies.
-Moe_Szyslak: Heh. Here's a couple of Düffenbraus, on the house, of course.
+Moe_Szyslak: Heh. Here's a couple of Duffenbraus, on the house, of course.
 Homer_Simpson: (IMPRESSED NOISE) Semi-imported. (GUZZLES THE BOTTLE) Keep 'em comin'.
 Mayor_Joe_Quimby: (TO MOE) Your generosity is greatly appreciated, especially during this health inspection season.
 Moe_Szyslak: Oh yeah, yeah, right. Health inspection. That reminds me. (CHUCKLES)
@@ -2064,7 +2064,7 @@ Homer_Simpson: (WEARY) Oh man, what a day. I'd kill for a beer.
 Moe_Szyslak: (GASP) Right away, sir. I-I-I don't want no trouble.
 Homer_Simpson: (INTRIGUED NOISE) I'd stab somebody for a pickle.
 Homer_Simpson: Gimme some peanuts.
-Moe_Szyslak: (À LA SIMON SAYS) Up-bup-bup. You didn't say you'd kill me.
+Moe_Szyslak: (A LA SIMON SAYS) Up-bup-bup. You didn't say you'd kill me.
 Homer_Simpson: (SIGHS) I'll kill you if you don't give me some peanuts.
 
 
@@ -2287,7 +2287,7 @@ Lisa_Simpson: You know what Mom really loves? Julienne potatoes. And for dessert
 Moe_Szyslak: You wanna know how to make a peach crumble? Kick it in the groin. Ha, anyway, what's goin' on?
 Homer_Simpson: I'm gonna treat Marge to a romantic dinner, to make up for all my shortcomings.
 Lenny_Leonard: Hey, Homer. If you're havin' a banquet for Marge, I'd like to help.
-Carl_Carlson: Hey, me too. I could whip up my famous poulet au vin avec champignons à la Carl. (HE KISSES HIS HAND)
+Carl_Carlson: Hey, me too. I could whip up my famous poulet au vin avec champignons a la Carl. (HE KISSES HIS HAND)
 Homer_Simpson: You can bring a bag of ice.
 
 
@@ -2609,7 +2609,7 @@ Carl_Carlson: Moe, why you bein' so generous? You're usually so stingy and rat-l
 Moe_Szyslak: Yeah, well, ya remember that time I tried to hang myself and the rope broke? Well, I sued the rope company and got a huge settlement... and a new rope!
 Carl_Carlson: Hey, nice rope.
 Lenny_Leonard: (ADMIRING) You could hang a cow with that thing!
-Lenny_Leonard: Hey, check it out -- I made it partially risqué.
+Lenny_Leonard: Hey, check it out -- I made it partially risque.
 Homer_Simpson: Hey guys, I have to put the boy on a plane to soul-crushing camp, then I'll be back to go to Vegas!
 Bart_Simpson: (PLEADING) Dad, if you take me to Vegas, I'll teach you how to cheat at blackjack.
 Homer_Simpson: Boy, you don't need to cheat when you got a system.
@@ -2648,7 +2648,7 @@ Barney_Gumble: I'm a drunk. I don't know nothin' about how I do anything.
 Moe_Szyslak: I had to get Edna out of Springfield -- make a fresh start in a new town, far away. A place where we can play bridge with our neighbors. And if they're interested in wife-swapping, who am I to say no? I'm just the new guy.
 Moe_Szyslak: But where would I get the money to start a new life? And then, opportunity strolled right in the door...
 Snake_Jailbird: Yes, hello. I need directions to the Springfield Natural History Museum. I totally have a donation for them.
-Moe_Szyslak: (À LA JERRY LEWIS) Coins money gold!
+Moe_Szyslak: (A LA JERRY LEWIS) Coins money gold!
 Moe_Szyslak: See, this was back before Snake became a notorious jailbird, when he was an idealistic, law-abiding young archaeologist.
 Snake_Jailbird: I was, like, excavating this Mayan pyramid and I totally unearth these gold coins and I'm all like "could you be any more pre-Columbian?"
 Moe_Szyslak: Uh, you can't donate that gold to the museum today, 'cause um... uh it's closed, so they can clean under the wangs on the statues.
@@ -2873,7 +2873,7 @@ Moe_Szyslak: Knock yourself out.
 Homer_Simpson: Is everyone here as sick of those stupid politicians as I am?
 Seymour_Skinner: What about the media? They're not covering the issues, they just want to declare a frontrunner and go back to their mansions.
 Moe_Szyslak: Who wants to abolish democracy forever? Show of hands.
-Carl_Carlson: I could really go for some kinda military dictator, like Juan Perón. When he disappeared ya, you stayed disappeared.
+Carl_Carlson: I could really go for some kinda military dictator, like Juan Peron. When he disappeared ya, you stayed disappeared.
 Lenny_Leonard: Plus his wife was Madonna.
 Ned_Flanders: What're we gonna do? We can't not vote. Nobody does that!
 Homer_Simpson: (GETTING IDEA) Why don't we all pick the most ridiculous candidate, and write him in?
@@ -3408,7 +3408,7 @@ Lenny_Leonard: You know, I love our Valentine's Day tradition of going out with 
 Carl_Carlson: Is there anything better than my best friend's face on a girl body?
 Lainie: Not that I can think of!
 Carlotta: Nothin' better!
-Moe_Szyslak: Boy, I love Valentine's Day. Stir a drop of Jägermeister into some pink lemonade, slice in some strawberry Chapstick, call it "Cupid's Ambrosia," and you can charge up the wazoo.
+Moe_Szyslak: Boy, I love Valentine's Day. Stir a drop of Jagermeister into some pink lemonade, slice in some strawberry Chapstick, call it "Cupid's Ambrosia," and you can charge up the wazoo.
 Homer_Simpson: (CHUCKLES) Now all you need are customers. (DRAINS THE DRINK) Well, better get home to the little woman. (CHUCKLES)
 Homer_Simpson: (TO MOE, SLIGHTLY CONCERNED) Do you have plans for tonight?
 Moe_Szyslak: What are you, crazy? Of course I do. I got a hot date. C'mon, scram, so I can get ready!
@@ -3623,10 +3623,10 @@ Sadistic_Barfly: Hey, Moe! I got a job here for your "best friend," the bar rag.
 The_Rich_Texan: Me too! (LAUGHS)
 Homer_Simpson: Witty. (CHUCKLES)
 Lenny_Leonard: Great meeting though.
-Bar_Rag: Yes, that's right, everyone laugh at the rag. (DRAMATIC, "KING LEAR") But I was not always this be-stainèd swatch you see before you. Oh no, gentles. We begin in early medieval France...
+Bar_Rag: Yes, that's right, everyone laugh at the rag. (DRAMATIC, "KING LEAR") But I was not always this be-stained swatch you see before you. Oh no, gentles. We begin in early medieval France...
 Bar_Rag: (VERY SELF-SATISFIED) That tapestry was me.
 Sponge: Right, and I was the Gutenberg Bible.
-Bartholomé: Maman, we have failed to grow.
+Bartholome: Maman, we have failed to grow.
 Lise: We've had too little food!
 Marguerite: (ANNOYED) Is it too little food or too much complaining?
 Lise: Maman, you are overstressed. You need a vacation. Perhaps to the South of France.
@@ -3737,7 +3737,7 @@ Homer_Simpson: (SAD) Life is too fragile. One minute you're lying in your hammoc
 Duffman: Homer, your bleak outlook has sent a smooth, icy chill down... (DROPPING CHARACTER) Screw it, I quit.
 Duffman: (TO DUFF GIRLS) Janette, Cheryl, get your own ride home.
 Homer_Simpson: Aw, come on Chief, I've had a rotten day. Can't you help me out?
-Chief_Wiggum: Sorry, I'm afraid the most I can do is pretend to drive you home. (À LA IMPROV COMIC) Okay, now hop on my imaginary motorcycle... arms around my belly...
+Chief_Wiggum: Sorry, I'm afraid the most I can do is pretend to drive you home. (A LA IMPROV COMIC) Okay, now hop on my imaginary motorcycle... arms around my belly...
 Chief_Wiggum: (MOTORCYCLE NOISES) ...um, I'm gonna need you to chip in for gas...
 Chief_Wiggum: (THREATENING) This is where the pretending ends.
 Moe_Szyslak: Here ya go, Homer. Boy, y'know, when you're just here alone, I can really smell ya.
@@ -4113,7 +4113,7 @@ Car: Force of habit.
 
 
 Homer_Simpson: From now on, you guys can no longer say these hateful words.
-Homer_Simpson: Chubby, chunky, blobbo, slobbo, Fat Bastard, Michelin Man, Stay-puft, chumbawamba, (CALLING OUT) It is balloon!, Papa Grandé, Augustus Gloop, Beached Whale, Big Boned, Wisconsin Skinny, Butterball, Dumptruck, Jelly Belly, Pudgy Wudgy, Lard Ass, Blubberino, Buddha Belly, Hurry Eat Tubman, One Ton Soup, (FLIPS PAGE) Blob Saget, Chub Hub, Calvin Cool Whip, Manfred Manboobs, 21 Lump Street, Walking Before Picture, Fatso, Harvey Milk Chocolate, Obese Want Cannoli, Mahatma Gumbo, Salvador Deli, Elmer Pantry, K.F.C. And The Sponge Cake Band, Snackie Onassis... (FLIPS PAGE AGAIN) The Foodie Blues, Hoagie Carmichael and Wide Load.
+Homer_Simpson: Chubby, chunky, blobbo, slobbo, Fat Bastard, Michelin Man, Stay-puft, chumbawamba, (CALLING OUT) It is balloon!, Papa Grande, Augustus Gloop, Beached Whale, Big Boned, Wisconsin Skinny, Butterball, Dumptruck, Jelly Belly, Pudgy Wudgy, Lard Ass, Blubberino, Buddha Belly, Hurry Eat Tubman, One Ton Soup, (FLIPS PAGE) Blob Saget, Chub Hub, Calvin Cool Whip, Manfred Manboobs, 21 Lump Street, Walking Before Picture, Fatso, Harvey Milk Chocolate, Obese Want Cannoli, Mahatma Gumbo, Salvador Deli, Elmer Pantry, K.F.C. And The Sponge Cake Band, Snackie Onassis... (FLIPS PAGE AGAIN) The Foodie Blues, Hoagie Carmichael and Wide Load.
 Lenny_Leonard: What about Mr. Two Belts?
 Homer_Simpson: Good. Good. By which I mean bad, bad.
 Moe_Szyslak: You know, as long as we're opening this up and I'm glad you are, I wanna tell you guys that when you call me a gargoyle, a troll, or a homunculus, it kinda hurts my feelin's.
@@ -4195,7 +4195,7 @@ KEMI: I am from Africa.
 Moe_Szyslak: Wow, Africa. I had a good friend who really wanted to go there. So, uh, you speak English there?
 KEMI: I speak five languages.
 Moe_Szyslak: (SNORTS) Nobody does.
-KEMI: (PORTUGUESE) Eu não quero dizer para mostrar (FRENCH) Je ne veux pas montrer (SPANISH) No me refiero a presumir (JAPANESE) Watashi wa koji suru wakede wa arimasen
+KEMI: (PORTUGUESE) Eu nao quero dizer para mostrar (FRENCH) Je ne veux pas montrer (SPANISH) No me refiero a presumir (JAPANESE) Watashi wa koji suru wakede wa arimasen
 Moe_Szyslak: Eh... which means what?
 KEMI: I don't wish to show off.
 Moe_Szyslak: (CHUCKLES DESPITE HIMSELF) That's pretty good there, but don't expect me to bow and scrape. Well, I'll give you one scrape.
